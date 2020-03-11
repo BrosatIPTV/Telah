@@ -1,6 +1,63 @@
 #EXTM3U
 
+#EXTINF:0 tvg-id="ext" group-title="TEST",AXN-2
+http://210.210.155.66/h/h141/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",SONY
+http://210.210.155.66/h/h143/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",AXN
+http://210.210.155.66/h/h141/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",Sony One
+http://210.210.155.66/h/h143/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",Sony Gem
+http://210.210.155.66/h/h19/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",NHK World
+http://210.210.155.66/h/h23/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",Egg Network
+http://210.210.155.66/h/h22/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",Channel Newsasia
+http://210.210.155.66/h/h29/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",Sony Gem
+http://210.210.155.66/h/h19/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",NHK World
+http://210.210.155.66/h/h23/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",Egg Network
+http://210.210.155.66/h/h22/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",Channel Newsasia
+http://210.210.155.66/h/h29/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",TV5 Monde Style
+http://210.210.155.66/h/h01/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",TV5 Monde Style
+http://210.210.155.66/h/h01/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",MNC Lifestyle
+http://210.210.155.66/h/h28/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",MNC Lifestyle
+http://210.210.155.66/h/h28/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",Metro
+http://210.210.155.66/h/h12/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",Metro
+http://210.210.155.66/h/h12/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",Satellite TV
+http://210.210.155.66/h/h08/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",Satellite TV
+http://210.210.155.66/h/h08/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",Kix
+http://210.210.155.66/h/h07/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",Kix
+http://210.210.155.66/h/h07/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",Fight Sports
+http://210.210.155.66/h/h05/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",Fight Sports
+http://210.210.155.66/h/h05/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",Bloomberg
+http://210.210.155.66/h/h04/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",Bloomberg
+http://210.210.155.66/h/h04/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",Bloomberg
+http://210.210.155.66/h/h03/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TEST",Hits
+http://210.210.155.66/h/h37/01.m3u8
 
+----------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports HD 1
 https://doofree88.com/streaming/epl-bein1_720/index.m3u8
 
