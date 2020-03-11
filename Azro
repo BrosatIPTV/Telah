@@ -2043,4 +2043,521 @@ https://cdn.cloneapi.icu/drive/index.php?id=NQd150uXrKeSYUuikyXZwgZ11mnEZEXzr4OT
  
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="VOD", Spiderman far home (2019) (hw+)
 https://cdn.cloneapi.icu/drive/index.php?id=p92vV0gK2LNXm7lfP64pLAU8ciPRzvimXFgl0eEr%2BsUvwE4zUnY3%2B4ieJzayIgDYWx9elnnLdl05ZVpInqerFwTRDnkifbTIfpHAtxh04njO1PjbLK2EmtLBwEiiIRWQgAHr6UHE%2BMicXVKI%2F4iqNsMbSO%2FrlwuuQJ3zGd%2FWs7WtySzCJ0fANpVsDvmqfDiX0DiqfTb5EANdwah2EIuhD2&ref=https%3A%2F%2Fsogafime.net%2Fspider-man-far-from-home-2019%2F&res=720
-#EXTM3U
+
+=======================================
+
+#EXTINF:-1 tvg-logo="http://www.chinafile.com/sites/default/files/assets/images/publication/logo_featured/voice_of_america_logo-feature.png" group-title="News",Voice of America
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BloombergTV.us.png" group-title="Financial News",Bloomberg Asia
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BloombergTV.us.png" group-title="Financial News",Bloomberg US
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.bloomberght.com/images/logo.png" group-title="Financial News",Bloomberg HT
+https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://miro.medium.com/max/2656/1*DhgWWj7DTZ-kD2zWhBBwAg.png" group-title="Financial News",Cheddar
+https://live.chdrstatic.com/cheddar/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNBC.uk.png" group-title="Financial News",CNBC
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:cnbc.smil/master.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Sports",Fox Sports 1 Asia
+https://anevia115.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-FOXSports-mp4a_98800_eng=3.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="Sports",Fox Sports 2 Asia
+https://anevia115.mncnow.id:443/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-FoxSports2-mp4a_98800_eng=3.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="Sports",Fox Sports 3 Asia
+https://anevia115.mncnow.id:443/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=10-FoxSports3-mp4a_98800_eng=5.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Sports",Fox Sports 1 Brasil
+https://origin.canaismax.com/mylive/foxsportshd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="Sports",Fox Sports 2 Brasil
+https://origin.canaismax.com/live/foxsports2hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nz/ESPN.nz.png" group-title="Sports",ESPN
+http://npse.brots.world/espn2.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nz/ESPN2.nz.png" group-title="Sports",ESPN 2
+https://gma2.blab.email/espn2.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ESPNNews.us.png" group-title="Sports",ESPN News
+https://gma2.blab.email/espnews.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="Sports",Eurosport 1
+http://ott.artmott.com/eurosport1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport2.uk.png" group-title="Sports",Eurosport 2
+http://ott.artmott.com/eurosport2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gr/EdgeSport.gr.png" group-title="Sports",Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="Sports",Olympic Channel
+https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="Sports",Olympic Channel 2
+https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="Sports",Setanta Sports 1
+http://92.46.127.146:8080//SetantaSport/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="Sports",Setanta Sports 2
+http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Sportv.br.png" group-title="Sports",SporTV
+https://globolive.akamaized.net/d/c/x2800/s/hls-spo124ha/hls-spo124ha_2764/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frt4nodrehe0~hmac=b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Sportv2.br.png" group-title="Sports",SporTV 2
+https://globolive.akamaized.net/d/c/x2800/s/hls-spo224ha/hls-spo224ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/SporTV_3_logo_2016.png" group-title="Sports",SporTV 3
+https://globolive.akamaized.net:443/d/c/x2800/s/hls-spo324ha/hls-spo324ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsAction.uk.png" group-title="Sports",Sky Sports Action
+https://cstream8.com/hls/skysportsaction.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsArena.uk.png" group-title="Sports",Sky Sports Arena
+https://cstream8.com/hls/skysportsarena.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/MatchTV.ru.png" group-title="Sports",Матч!
+http://stream3.kuvalda.tv/hls/match.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_original.png" group-title="Football",True Sport 2
+https://livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/RealMadridTV.es.png" group-title="Football",Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/RealMadridTV.es.png" group-title="Football",Real Madrid TV Español
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/MatchFutbol1.ru.png" group-title="Football",Матч! Футбол 1
+http://188.35.9.14:2010
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/MatchFutbol3.ru.png" group-title="Football",Матч! Футбол 3
+http://188.35.9.14:2012
+
+#EXTINF:-1 tvg-logo="https://start.sportdigital.de/assets/img/SD_HDSenderLOutlWEB.png" group-title="Football",Sportdigital
+http://50.7.216.194:8080/SPORT_DIGITAL/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/AXN.id.png" group-title="Entertainment",AXN
+https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="Entertainment",Asian Food Network
+https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Docurama_Logo_August_2015.jpg" group-title="Entertainment",Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hr/Diva.hr.png" group-title="Entertainment",Diva
+http://ott.artmott.com/DIVA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/05/E-Logo_Black.png" group-title="Entertainment",E!
+http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Entertainment_Tonight_2014_logo.png" group-title="Entertainment",ET Live
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
+
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/fashionboxhd-logo.png" group-title="Entertainment",Fashion Box
+https://1575390972.rsc.cdn77.org/1575390972/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/bg/FoodNetwork.bg.png" group-title="Entertainment",Food Network
+http://5.135.92.133:52841/out/u/502_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/FoxCrime.pt.png" group-title="Entertainment",FOX Crime
+https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp4a_98800_eng=3.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/HGTV.ca.png" group-title="Entertainment",HGTV
+https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV-avc1_2499968=12-HGTV-mp4a_98800_eng=3.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.huntchannel.tv/wp-content/uploads/2017/10/HC-Logo-transparent.png" group-title="Entertainment",Hunt Channel
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Insight.uk.png" group-title="Entertainment",Insight TV
+http://jiocgwhub.jio.ril.com/Insight/Insight.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Lifetime.br.png" group-title="Entertainment",Lifetime
+https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.outdoorchannel.com/network/img/odc/logo.png" group-title="Entertainment",Outdoor Channel
+http://84.22.33.254/unicast.outdoorchannel/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.outdoorchannel.com/network/img/odc/logo.png" group-title="Entertainment",Outdoor Channel Asia
+https://dl.dropbox.com/s/b0m53oaf0li7fv8/Outdoor.m3u8?dl=1
+
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22728/monarch/logo_20191212_203358.png" group-title="Entertainment",Monarch TV
+https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://zypechris.wpengine.com/wp-content/uploads/2019/09/peopletv_logo-140x36-low.png" group-title="Entertainment",People TV
+https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="Entertainment",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sa/StarWorld.sa.png" group-title="Entertainment",Star World
+http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/uk/TLC.uk.png" group-title="Entertainment",TLC
+https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC-avc1_2499968=11-TLC-mp4a_98800_eng=3.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/TLC.de.png" group-title="Entertainment",TLC India
+https://streamidvo.multitvsolution.in/TLC_HD-a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wzBD6fy.png" group-title="Entertainment",TMZ
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/TraceSportStars.uk.png" group-title="Entertainment",Trace Sports Stars
+https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/4/prog_index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/Animax.id.png" group-title="Kids/Animation",Animax
+https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499968=11-Animax-mp4a_98800_eng=3.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/BabyFirstTV.pl.png" group-title="Kids/Animation",BabyFirst
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Boomerang.de.png" group-title="Kids/Animation",Boomerang
+http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/CartoonNetwork.de.png" group-title="Kids/Animation",Cartoon Network
+http://fr-c.movply.stream/hls/Carton_Network.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/DisneyChannel.ee.png" group-title="Kids/Animation",Disney Channel
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DisneyJunior.uk.png" group-title="Kids/Animation",Disney Jr
+https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/DisneyXD.de.png" group-title="Kids/Animation",Disney XD
+https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD-avc1_2499968=11-DisneyXD-mp4a_98800_ind=16.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sk/DuckTV.sk.png" group-title="Kids/Animation",Duck TV
+http://livecdnh3.tvanywhere.ae/hls/duck/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://digitalrussia.tv/upload/files/48266978_525772611258059_7076947931516895232_n.png" group-title="Kids/Animation",FAN TV
+http://195.9.195.3:8080/hls/157239.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/JimJam.pl.png" group-title="Kids/Animation",Jim Jam
+http://ms-azure-video.gslb.startimestv.com/live/JIMJAM_890_500_480x360_194010/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.fixundfoxi.tv/fileadmin/img/logo.png" group-title="Kids/Animation",Fix & Foxi
+https://1301485333.rsc.cdn77.org/1301485333/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="Kids/Animation",妙米
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Nickelodeon.uk.png" group-title="Kids/Animation",Nickelodeon
+https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sa/NickJr.sa.png" group-title="Kids/Animation",Nick Jr
+https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tctkids.tv/images/TCTKids/TCTKidslogo.png" group-title="Kids/Animation",TCT Kids
+http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png" group-title="Kids/Animation",哈哈炫动
+http://111.40.205.76/PLTV/88888888/224/3221225657/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="Kids/Animation",卡酷少儿
+http://111.40.205.76/PLTV/88888888/224/3221225654/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="Kids/Animation",优漫卡通
+http://111.40.205.76/PLTV/88888888/224/3221225656/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="Kids/Animation",黑莓动画
+http://111.40.205.76/PLTV/88888888/224/3221225662/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/AnimalPlanet.cz.png" group-title="Learning",Animal Planet
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/BBCEarth.qa.png" group-title="Learning",BBC Earth
+https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth-avc1_1000000=10-mp4a_98800_eng=5.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/CGTNDocu.au.png" group-title="Learning",CGTN Documentary
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CrimeInvestigation.us.png" group-title="Learning",Crime & Investigation
+http://203.154.243.31:15001
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/DiscoveryChannel.us.png" group-title="Learning",Discovery
+https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13-Discovery-mp4a_98800_eng=5.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/DiscoveryChannel.us.png" group-title="Learning",Discovery India
+http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/InvestigationDiscovery.us.png" group-title="Learning",Investigation Discovery
+http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/DiscoveryScience.au.png" group-title="Learning",Discovery Science
+http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/DiscoveryTurbo.au.png" group-title="Learning",Discovery Turbo
+http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/DocuBox.pl.png" group-title="Learning",Docubox
+https://1795195508.rsc.cdn77.org/1795195508/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://english-club.tv/wp-content/uploads/2015/09/logo-round.png" group-title="Learning",English Club
+http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/History.de.png" group-title="Learning",History
+https://liveanevia.mncnow.id/live/eds/History/sa_hls/History-avc1_1000000=9-History-mp4a_98800_eng=3.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/se/History2.se.png" group-title="Learning",H2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="Learning",National Geo
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NatGeoWild.us.png" group-title="Learning",National Geo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/NatGeoPeople.id.png" group-title="Learning",National Geo People
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SmithsonianChannel.uk.png" group-title="Learning",Smithsonian
+http://ms-azure-video.gslb.startimestv.com/live/SMITHSONIAN_CHANNEL_1166_500_480x360_662502/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/header-logo.gif" group-title="Learning",UN Web TV
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.baipin.pw/wp-content/uploads/2019/07/8b13632762d0f70343dbf12502fa513d2797c5da.png" group-title="Learning",D求索纪录
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjilu.jpg" group-title="Learning",Newtv 精品记录
+http://111.40.205.76/PLTV/88888888/224/3221225672/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://pic.iask.cn/fimg/78078440198.jpg" group-title="Learning",山东教育
+http://111.40.205.87/PLTV/88888888/224/3221225655/index.m3u8
+
+
+######################################## OLAH RAGA ##################################
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/800px-Sky_Sport_Switzerland.svg.png" group-title="OLAH RAGA",SKY SPORTS PREMIER LEAGUE HD
+http://sp3te.website:8080/live:alinhotfc/n2J5QTnoEp/2823
+
+#EXTINF:0 group-title="OLAH RAGA"tvg-logo="http://logo.ddnb.tn/logochanel/2359.png",BeinSport Max 2
+http://vvn.neoredi.com/iptv/ch2359?code=135114454296143&key=29388
+
+#EXTINF:0 group-title="OLAH RAGA"tvg-logo="http://logo.ddnb.tn/logochanel/8112.png",BeInSport 2 SD
+http://vvn.neoredi.com/iptv/ch8112?code=135114454296143&key=12334
+
+#EXTINF:0 group-title="OLAH RAGA"tvg-logo="http://logo.ddnb.tn/logochanel/8117.png",BeInSport 7 SD
+http://vvn.neoredi.com/iptv/ch8117?code=135114454296143&key=24135
+
+#EXTINF:0 group-title="OLAH RAGA"tvg-logo="http://logo.ddnb.tn/logochanel/118.png",BeInSport 8 HD
+http://vvn.neoredi.com/iptv/ch118?code=135114454296143&key=43336
+
+#EXTINF:0 group-title="OLAH RAGA"tvg-logo="http://logo.ddnb.tn/logochanel/8513.png",BeInSport 12 SD
+http://vvn.neoredi.com/iptv/ch8513?code=135114454296143&key=38848
+
+#EXTINF:0 group-title="OLAH RAGA"tvg-logo="http://logo.ddnb.tn/logochanel/514.png",BeInSport 13 HD
+http://vvn.neoredi.com/iptv/ch514?code=135114454296143&key=40006
+
+#EXTINF:0 group-title="OLAH RAGA"tvg-logo="http://logo.ddnb.tn/logochanel/8515.png",BeInSport 14 SD
+http://vvn.neoredi.com/iptv/ch8515?code=135114454296143&key=16020
+
+#EXTINF:0 group-title="OLAH RAGA"tvg-logo="http://logo.ddnb.tn/logochanel/823.png",KSA SPORT 1
+http://vvn.neoredi.com/iptv/ch823?code=135114454296143&key=44583
+
+#EXTINF:0 group-title="OLAH RAGA"tvg-logo="http://logo.ddnb.tn/logochanel/825.png",KSA SPORT +1
+http://vvn.neoredi.com/iptv/ch825?code=135114454296143&key=17779
+
+#EXTINF:0 group-title="OLAH RAGA"tvg-logo="http://logo.ddnb.tn/logochanel/826.png",KSA SPORT +2
+http://vvn.neoredi.com/iptv/ch826?code=135114454296143&key=42093
+
+#EXTINF:0 group-title="OLAH RAGA"tvg-logo="http://logo.ddnb.tn/logochanel/122.png",AD Sport 1 HD
+http://vvn.neoredi.com/iptv/ch122?code=135114454296143&key=21973
+
+#EXTINF:0 group-title="OLAH RAGA"tvg-logo="http://logo.ddnb.tn/logochanel/5519.png",AD Sport 3 HD
+http://vvn.neoredi.com/iptv/ch5519?code=135114454296143&key=18357
+
+#EXTINF:0 group-title="OLAH RAGA"tvg-logo="http://logo.ddnb.tn/logochanel/5521.png",AD Sport 5 HD
+http://vvn.neoredi.com/iptv/ch5521?code=135114454296143&key=12619
+
+#EXTINF:0 group-title="OLAH RAGA"tvg-logo="http://logo.ddnb.tn/logochanel/442.png",Al Kaas 2
+http://vvn.neoredi.com/iptv/ch442?code=135114454296143&key=27203
+
+#EXTINF:0 group-title="OLAH RAGA"tvg-logo="http://logo.ddnb.tn/logochanel/545.png",Al Kaas 4
+http://vvn.neoredi.com/iptv/ch545?code=135114454296143&key=49809
+
+#EXTINF:0 group-title="OLAH RAGA"tvg-logo="http://logo.ddnb.tn/logochanel/510.png",BeInSport 9 HD
+http://vvn.neoredi.com/iptv/ch510?code=590138456678768&key=27398
+
+#EXTINF:0 group-title="OLAH RAGA"tvg-logo="http://logo.ddnb.tn/logochanel/511.png",BeInSport 10 HD
+http://vvn.neoredi.com/iptv/ch511?code=590138456678768&key=51278
+
+#EXTINF:0 group-title="OLAH RAGA"tvg-logo="http://logo.ddnb.tn/logochanel/516.png",BeInSport 15 HD
+http://vvn.neoredi.com/iptv/ch516?code=590138456678768&key=27664
+
+#EXTINF:0 group-title="OLAH RAGA"tvg-logo="http://logo.ddnb.tn/logochanel/522.png",BeInSport NBA HD 
+http://vvn.neoredi.com/iptv/ch522?code=590138456678768&key=52241
+
+#EXTINF:-1 group-title="OLAH RAGA",BeInSport 1 HD
+http://cdng.pubcdn.tn/iptv/ch111?code=1701341723961808
+
+#EXTINF:-1 group-title="OLAH RAGA",BeInSport 1 SD
+http://cdng.pubcdn.tn/iptv/ch8111?code=1701341723961808
+
+#EXTINF:-1 group-title="OLAH RAGA",BeInSport 2 HD
+http://cdng.pubcdn.tn/iptv/ch112?code=1701341723961808
+
+#EXTINF:-1 group-title="OLAH RAGA",BeInSport 2 SD
+http://cdng.pubcdn.tn/iptv/ch8112?code=1701341723961808
+
+#EXTINF:-1 group-title="OLAH RAGA",BeInSport 3 HD
+http://cdng.pubcdn.tn/iptv/ch113?code=1701341723961808
+
+#EXTINF:-1  group-title="OLAH RAGA",BeInSport 3 SD
+http://cdng.pubcdn.tn/iptv/ch8113?code=1701341723961808
+
+#EXTINF:-1  group-title="OLAH RAGA",BeInSport 4 HD
+http://cdng.pubcdn.tn/iptv/ch114?code=1701341723961808
+
+#EXTINF:-1 group-title="OLAH RAGA",BeInSport 4 SD
+http://cdng.pubcdn.tn/iptv/ch8114?code=1701341723961808
+
+#EXTINF:-1  group-title="OLAH RAGA",BeInSport 5 HD
+http://cdng.pubcdn.tn/iptv/ch115?code=1701341723961808
+
+#EXTINF:-1 group-title="OLAH RAGA",BeInSport 5 SD
+http://cdng.pubcdn.tn/iptv/ch8115?code=1701341723961808
+
+#EXTINF:-1 group-title="OLAH RAGA",BeInSport 6 HD
+http://cdng.pubcdn.tn/iptv/ch116?code=1701341723961808
+
+#EXTINF:-1 group-title="OLAH RAGA",BeInSport 6 SD
+http://cdng.pubcdn.tn/iptv/ch8116?code=1701341723961808
+
+#EXTINF:-1 group-title="OLAH RAGA",BeInSport 7 HD
+http://cdng.pubcdn.tn/iptv/ch117?code=1701341723961808
+
+#EXTINF:-1 group-title="OLAH RAGA",BeInSport 7 SD
+http://cdng.pubcdn.tn/iptv/ch8117?code=1701341723961808
+
+#EXTINF:-1 group-title="OLAH RAGA",BeInSport 8 HD
+http://cdng.pubcdn.tn/iptv/ch118?code=1701341723961808
+
+#EXTINF:-1 group-title="OLAH RAGA",BeInSport 8 SD
+http://cdng.pubcdn.tn/iptv/ch8118?code=1701341723961808
+
+#EXTINF:-1 group-title="OLAH RAGA",BeInSport 9 HD
+http://cdng.pubcdn.tn/iptv/ch510?code=1701341723961808
+
+#EXTINF:-1 group-title="OLAH RAGA",BeInSport 9 SD
+http://cdng.pubcdn.tn/iptv/ch8510?code=1701341723961808
+
+#EXTINF:-1 group-title="OLAH RAGA",BeInSport 10 HD
+http://cdng.pubcdn.tn/iptv/ch511?code=1701341723961808
+
+#EXTINF:-1 group-title="OLAH RAGA",BeInSport 10 SD
+http://cdng.pubcdn.tn/iptv/ch8511?code=1701341723961808
+
+#EXTINF:-1 group-title="OLAH RAGA",BeInSport 11 HD
+http://cdng.pubcdn.tn/iptv/ch512?code=1701341723961808
+
+#EXTINF:-1 group-title="OLAH RAGA",BeInSport 11 SD
+http://cdng.pubcdn.tn/iptv/c8h512?code=1701341723961808
+
+#EXTINF:-1 group-title="OLAH RAGA",BeInSport 12 HD
+http://cdng.pubcdn.tn/iptv/ch513?code=1701341723961808
+
+#EXTINF:-1 group-title="OLAH RAGA",BeInSport 12 SD
+http://cdng.pubcdn.tn/iptv/ch8513?code=1701341723961808
+
+#EXTINF:-1 group-title="OLAH RAGA",BeInSport 13 HD
+http://cdng.pubcdn.tn/iptv/ch514?code=1701341723961808
+
+#EXTINF:-1 group-title="OLAH RAGA",BeInSport 13 SD
+http://cdng.pubcdn.tn/iptv/ch8514?code=1701341723961808
+
+#EXTINF:-1 group-title="OLAH RAGA",BeInSport 14 HD
+http://cdng.pubcdn.tn/iptv/ch515?code=1701341723961808
+
+#EXTINF:-1 group-title="OLAH RAGA",BeInSport 14 SD
+http://cdng.pubcdn.tn/iptv/ch8515?code=1701341723961808
+
+#EXTINF:-1 group-title="OLAH RAGA",BeInSport 15 HD
+http://cdng.pubcdn.tn/iptv/ch516?code=1701341723961808
+
+#EXTINF:-1 group-title="OLAH RAGA",BeInSport 15 SD
+http://cdng.pubcdn.tn/iptv/ch8516?code=1701341723961808
+
+#EXTINF:-1 group-title="OLAH RAGA",BeInSport 16 HD 
+http://cdng.pubcdn.tn/iptv/ch517?code=1701341723961808
+
+#EXTINF:-1 group-title="OLAH RAGA",BeInSport NBA HD 
+http://cdng.pubcdn.tn/iptv/ch522?code=1701341723961808
+
+#EXTINF:-1 group-title="OLAH RAGA",ARB:BEIN:SPORT1
+http://sp3te.website:8080/live:alinhotfc/n2J5QTnoEp/232
+
+#EXTINF:-1 group-title="OLAH RAGA",ARB:BEIN:SPORT2
+http://sp3te.website:8080/live:alinhotfc/n2J5QTnoEp/233
+
+#EXTINF:-1 group-title="OLAH RAGA",ARB:BEIN:SPORT3
+http://sp3te.website:8080/live:alinhotfc/n2J5QTnoEp/234
+
+#EXTINF:-1 group-title="OLAH RAGA",ARB:BEIN:SPORT5
+http://sp3te.website:8080/live:alinhotfc/n2J5QTnoEp/236
+
+#EXTINF:-1 group-title="OLAH RAGA",ARB:BEIN:SPORT7
+http://sp3te.website:8080/live:alinhotfc/n2J5QTnoEp/238
+
+#EXTINF:-1 group-title="OLAH RAGA",ARB:BEIN:SPORT8
+http://sp3te.website:8080/live:alinhotfc/n2J5QTnoEp/239
+
+#EXTINF:-1 group-title="OLAH RAGA",ARB:BEIN:SPORT9
+http://sp3te.website:8080/live:alinhotfc/n2J5QTnoEp/240
+
+#EXTINF:-1 group-title="OLAH RAGA",ARB:BEIN:SPORT11
+http://sp3te.website:8080/live:alinhotfc/n2J5QTnoEp/242
+
+#EXTINF:-1 group-title="OLAH RAGA",ARB:BeIN Sport 12
+http://sp3te.website:8080/live:alinhotfc/n2J5QTnoEp/243
+
+#EXTINF:-1 group-title="OLAH RAGA",ar: Bein Sports 1 HD
+http://51.15.10.235:2082/ellWaZL1rl/HfiL3CeYrI/13
+
+#EXTINF:-1 group-title="OLAH RAGA",ar: Bein Sports 2 HD
+http://51.15.10.235:2082/ellWaZL1rl/HfiL3CeYrI/21
+
+#EXTINF:-1 group-title="OLAH RAGA",ar: Bein Sports 3 HD
+http://51.15.10.235:2082/ellWaZL1rl/HfiL3CeYrI/22
+
+#EXTINF:-1 group-title="OLAH RAGA",ar: Bein Sports 4 HD
+http://51.15.10.235:2082/ellWaZL1rl/HfiL3CeYrI/23
+
+#EXTINF:-1 group-title="OLAH RAGA",ar: Bein Sports 5 HD
+http://51.15.10.235:2082/ellWaZL1rl/HfiL3CeYrI/24
+
+#EXTINF:-1 group-title="OLAH RAGA",ar: Bein Sports 6 HD
+http://51.15.10.235:2082/ellWaZL1rl/HfiL3CeYrI/25
+
+#EXTINF:-1 group-title="OLAH RAGA",ar: Bein Sports 7 HD
+http://51.15.10.235:2082/ellWaZL1rl/HfiL3CeYrI/26
+
+#EXTINF:-1 group-title="OLAH RAGA",ar: Bein Sports 8 HD
+http://51.15.10.235:2082/ellWaZL1rl/HfiL3CeYrI/27
+
+#EXTINF:-1 group-title="OLAH RAGA",ar: Bein Sports 9 HD
+http://51.15.10.235:2082/ellWaZL1rl/HfiL3CeYrI/28
+
+#EXTINF:-1 group-title="OLAH RAGA",ar: Bein Sports 10 HD
+http://51.15.10.235:2082/ellWaZL1rl/HfiL3CeYrI/29
+
+#EXTINF:-1 group-title="OLAH RAGA",ar: Bein Sports 11 HD
+http://51.15.10.235:2082/ellWaZL1rl/HfiL3CeYrI/21513
+
+#EXTINF:-1 group-title="OLAH RAGA",ar: Bein Sports NBA HD
+http://51.15.10.235:2082/ellWaZL1rl/HfiL3CeYrI/13704
