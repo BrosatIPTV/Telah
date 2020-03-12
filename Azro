@@ -12,7 +12,7 @@ https://rtm2hdmobile.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_b206400
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Astro",RTM Sports
 https://rtm6hdmobile.secureswiftcontent.com/Origin2/ngrp:RTM2/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/tv3.png" group-title="Astro",TV3
-http://190.2.155.140:8278/TV3/playlist.m3u8
+http://universeiptv.com:8000/ja4298/ewwdc6765/7892
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/ntv7.png" group-title="Astro",NTV7 
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/8tv.png" group-title="Astro",TV8
