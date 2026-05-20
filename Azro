@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Stream1" tvg-name="Live Stream" group-title="IPTV",Live Stream
-http://cevo1.ddns.me:8080/kbDA67tnfr/h6AhLZ4FB9/256890?extension=m3u8
+#EXTINF:-1 tvg-name="IPTV Live",IPTV Live
+http://51.81.106.100:25461/get.php?username=oakstreet428@gmail.com&password=2142332&type=m3u
